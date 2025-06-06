@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252061230322",
+    "project_id": "myruubix",
+    "storage_bucket": "myruubix.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252061230322:android:595acb876a6fa483401c6b",
+        "android_client_info": {
+          "package_name": "com.hxmilez.myruubix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0bkcxBS_e5tS8jLttZWSVBN6XZF_MAOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
