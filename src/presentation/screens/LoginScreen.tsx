@@ -13,8 +13,8 @@ import {
 } from 'react-native';
 import { useTheme } from '../theme/ThemeProvider';
 import { useAuth } from '../context/AuthContext';
-import { TextField } from '../components/TextField';
-import { Button } from '../components/Button';
+import TextField  from '../components/common/TextField';
+import  Button  from '../components/common/Button';
 import { Ionicons } from '@expo/vector-icons';
 
 /**
